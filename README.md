@@ -12,3 +12,5 @@ Finally, the project is prepared for deployment using Google Cloud, making the d
 - **Python**
 - **Dash**
 - **Google Cloud** 
+
+
