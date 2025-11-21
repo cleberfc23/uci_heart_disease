@@ -7,3 +7,8 @@ The project structure includes a functional navigation menu that organizes multi
 To keep the code clean and maintainable, the entire project follows Python best practices, with directories and modules organized according to their responsibilities.
 
 Finally, the project is prepared for deployment using Google Cloud, making the dashboard accessible online and ready for real-world use.
+
+## Tech Stack:
+- **Python**
+- **Dash**
+- **Google Cloud** 
